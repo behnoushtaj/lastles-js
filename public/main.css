@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.hover-top:hover{
+    box-shadow:  5px  5px 25px #fd2036;
+}
